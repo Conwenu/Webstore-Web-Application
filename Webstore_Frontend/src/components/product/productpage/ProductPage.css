@@ -1,0 +1,28 @@
+.DeleteProduct
+{
+    cursor: pointer;
+}
+
+.ProductPageCard
+{
+    background-color: #A6D3A0;
+    border-radius: 25px;
+    margin: 1%;
+}
+
+.ProductPageInfo
+{
+    
+    text-align: center;
+}
+
+.ProductPageListGroupItem
+{
+    background-color: #A6D3A0;
+}
+
+.ProductPageImage
+{
+    max-width: 100%;
+    max-height: 100%;
+}

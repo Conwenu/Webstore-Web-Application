@@ -1,0 +1,10 @@
+.UserSettingsContainer
+{
+    display: grid;
+    place-items: center;
+}
+
+.updateInfo
+{
+    cursor: pointer;
+}

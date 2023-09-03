@@ -1,0 +1,33 @@
+server:
+  error:
+    include-message: always
+    include-binding-errors: always
+
+spring:
+  datasource:
+    password: ${env.DATABASE_PASSWORD}
+    url: ${env.DATABASE_URL}
+    username: ${env.DATABASE_USERNAME}
+  jpa:
+    hibernate:
+      ddl-auto: update
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgreSQLDialect
+
+        globally_quoted_identifiers: true
+    show-sql: true
+  mail:
+    host: ${env.EMAIL_HOST}
+    port: ${env.EMAIL_PORT}
+    username: ${env.EMAIL_USER}
+    password: ${env.EMAIL_PASS}
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+jwtSecret: ${env.JWT_SECRET}
+frontEndURL : ${env.FRONT_END_URL}
+emailUser: ${env.EMAIL_USER}

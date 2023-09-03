@@ -1,0 +1,31 @@
+.RatingsContainer
+ {
+    display: flex;
+    flex-direction: row; 
+    justify-content: flex-start;
+    flex-basis:auto;
+    flex-flow:wrap;
+    max-width: 100%;
+}
+
+.RatingContainer
+{
+    
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.RatingCard
+{
+    background-color: #808782;
+    /* min-height : 100%; */
+}
+
+.RefreshRatingsButton
+{
+    width: 100%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}

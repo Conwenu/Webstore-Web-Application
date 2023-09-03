@@ -1,0 +1,53 @@
+
+.EditProduct
+{
+    cursor: pointer;
+}
+
+.DeleteProduct
+{
+    cursor: pointer;
+}
+
+.ProductsContainer
+ {
+    display: flex;
+    flex-direction: row; 
+    justify-content: flex-start;
+    flex-basis:auto;
+    flex-flow:wrap;
+    max-width: 100%;
+    
+    
+}
+
+.ProductCard
+{
+    background-color: 808782;
+    min-height : 100%;
+}
+
+.ProductContainer
+{
+    background-color: #1a1a1a  !important;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    
+    
+}
+.ProductCardTitle,.ProductCardBody
+{
+    background-color: #808782;
+    border-bottom-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+}
+
+.card
+{
+    border-radius: 25px !important;
+    flex: 1 0 auto;
+}
+
+

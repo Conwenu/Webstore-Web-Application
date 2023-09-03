@@ -1,0 +1,39 @@
+.UserProductContainer
+{
+    
+    margin-bottom: 1%;
+    padding-bottom: 1%;
+    border-radius: 25px;
+    text-align: center;
+}
+
+.ProductCard
+{
+    
+   background-color: #808782;
+}
+
+.card-img
+{
+    width: 25%;
+    display: flex;
+    align-items: center;
+    margin-left: 37.5%;
+}
+
+.EditProduct
+{    
+    width: 100%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+
+
+}
+
+.RefreshProductsButton
+{
+    width: 100%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin-bottom: 1%;
+}

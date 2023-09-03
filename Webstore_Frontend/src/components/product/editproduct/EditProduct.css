@@ -1,0 +1,16 @@
+.EditProductContainer
+{
+    display: grid;
+    place-items: center;
+}
+
+.EditFormTitle
+{
+    text-align: center;
+}
+
+.EditProductButton
+{
+    margin-top: 1%!important;
+    margin-bottom: 1%!important;
+}

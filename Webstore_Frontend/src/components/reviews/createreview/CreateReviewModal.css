@@ -1,0 +1,16 @@
+.modal-bodyA {
+    margin: 25rem;
+    max-height: 100px;
+    overflow-y: auto; 
+    height: 50%;
+}
+
+.reviewButton
+{
+  z-index: 10;
+  margin: 1%;
+  width: 100%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  background-color: #A6D3A0;
+}

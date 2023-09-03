@@ -1,0 +1,63 @@
+.CartDisplay
+{
+    display: grid;
+    place-items: center;
+}
+
+.CartItemContainer
+{
+    border-radius: 25px;
+    min-width: 100%;
+    margin-bottom: 1rem;
+    background-color: transparent;
+}
+
+.CartCard
+{
+    background-color: #808782;
+    margin-bottom: 10px;
+}
+
+
+
+.card-img
+{
+    width: 25%;
+    display: flex;
+    align-items: center;
+}
+
+.CartDisplay
+{
+
+    padding-bottom: 1%;
+    border-radius: 25px;
+    text-align: center;
+    margin: 1%;
+}
+
+.RefreshCartButton{
+    margin-top: 1%;
+    width: 100%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.EmptyCartButton{
+    margin-top: 1%;
+    width: 100%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.TotalPriceContainer
+{
+    position: sticky;
+    top:0;
+    margin-top: 1%;
+    width: 100%;
+    padding-top: 1%;
+    padding-bottom: 1%; 
+    cursor:default !important;
+    z-index: 5;
+}

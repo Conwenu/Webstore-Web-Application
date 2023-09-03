@@ -1,0 +1,19 @@
+#root {
+  max-width: 100%;
+  margin: 0 auto;
+  text-align: center;
+  background-color: #525252;
+}
+
+.form-control
+{
+  background-color: transparent !important;
+  text-decoration-color: rgb(26, 118, 198) !important;
+}
+
+.form-label
+{
+  text-decoration: underline !important;
+  color: black;
+}
+

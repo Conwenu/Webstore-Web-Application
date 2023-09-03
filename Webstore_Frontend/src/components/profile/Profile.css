@@ -1,0 +1,28 @@
+.p-2
+{
+    background-color: grey;
+    border-radius: 25px;
+    margin-top: 1rem;
+}
+
+.nav-tabs .nav-item .nav-link {
+    background-color: #2b3035;
+    color: #FFF;
+    border: transparent;
+  }
+  
+  .nav-tabs .nav-item .nav-link.active {
+    color: #ffffff;
+    background-color: #808782;
+  }
+  
+  .tab-content {
+    border-top: transparent;
+    padding: 15px;
+  }
+  
+  .tab-content .tab-pane {
+    color: transparent;
+    min-height: 200px;
+    height: auto;
+  }

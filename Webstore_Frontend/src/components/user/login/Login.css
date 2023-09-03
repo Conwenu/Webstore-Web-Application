@@ -1,0 +1,20 @@
+.loginContainer
+{
+    display: grid;
+    place-items: center;
+    margin-top: 10px;
+}
+
+.FloatingInput
+{
+    background-color: transparent !important;
+}
+
+label::after {
+    background-color: transparent !important;
+  }
+
+.LoginText
+{
+    color: antiquewhite !important;
+}
