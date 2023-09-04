@@ -1,9 +1,9 @@
-###### Webstore Web Application
-This project is a REST API that allows users to perform CRUD Operations on products as well as allowing these users to write reviews on these products as well as to rate them on a scale from 1-100. This project uses Java paired with Springboot for the backend and uses React for the frontend.
+### Webstore Web Application
+This project is a REST API that allows users to perform CRUD Operations on products as well as allowing these users to write reviews on these products as well as to rate them on a scale from 1-100. This project uses Java paired with Springboot for the backend and uses React for the front end.
 
 ### Here's a link demonstrating the use of this web application: https://youtu.be/MG5P2GtLkP0
 
-#### Technology Used
+## Technology Used
 ## This project Uses The Following On The Front End (VS Code)
 React
 Universal Cookie
@@ -21,7 +21,7 @@ Java
 Springboot
 Spring Security
 
-#### Installation Process 
+## Installation Process 
 To Install You should first Clone The Repository
 Then create a Firebase account and set up the database
 Replace the values in the Firebase configuration values with your own
