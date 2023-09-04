@@ -1,5 +1,5 @@
-"# Webstore-Web-Application" 
-"# Webstore-Web-Application" 
+###### Webstore Web Application
+This project is a REST API that allows users to perform CRUD Operations on products as well as allowing these users to write reviews on these products as well as to rate them on a scale from 1-100. This project uses Java paired with Springboot for the backend and uses React for the frontend.
 
 ### Here's a link demonstrating the use of this web application: https://youtu.be/MG5P2GtLkP0
 
