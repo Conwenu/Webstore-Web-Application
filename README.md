@@ -29,4 +29,4 @@ You should do the same for the .env File and replace all given values
 Since I used a PostgreSQL database you should aim to use one as well if you want to duplicate my results.
 
 Once you've done the above on the backend using Intelli J you can simply set your main file to the WebstoreDemoApplication.java file and run it
-On the front end you can type `npm run dev` and that should run the local host port
+On the front end you can type `npm run dev` in the terminal and that should run the local host port
