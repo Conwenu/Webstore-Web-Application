@@ -5,15 +5,15 @@ This project is a REST API that allows users to perform CRUD Operations on produ
 
 ## Technology Used
 ## This project Uses The Following On The Front End (VS Code)
-React
-Universal Cookie
-React Toastify
-React Bootstrap
-Bootstrap
-React DOM
-React Router Dom
-UUID
-Axios
+React,
+Universal Cookie,
+React Toastify,
+React Bootstrap,
+Bootstrap,
+React DOM,
+React Router Dom,
+UUID,
+Axios,
 Firebase 
 
 ## This Project Uses The Following On The Back End (Intelli J)
