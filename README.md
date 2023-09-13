@@ -17,9 +17,10 @@ Axios,
 Firebase 
 
 ## This Project Uses The Following On The Back End (Intelli J)
-Java
-Springboot
-Spring Security
+Java,
+Springboot,
+Spring Security,
+Spring Data
 
 ## Installation Process 
 To Install You should first Clone The Repository
